@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <project name="MyMagma/xiaomi_device_msm8996-common" path="device/xiaomi/msm8996-common" remote="github" revision="ten"/>
+        <project name="MyMagma/xiaomi_msm8996" path="kernel/xiaomi/msm8996" remote="github" revision="ten"/>
+        <project name="MyMagma/bootani" path="vendor/magma/prebuilt/common/bootanimation" remote="github" revision="master"/>
+</manifest>
