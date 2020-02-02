@@ -4,5 +4,5 @@
         <project name="MyMagma/xiaomi_msm8996" path="kernel/xiaomi/msm8996" remote="github" revision="ten"/>
         <project name="MyMagma/bootani" path="vendor/magma/prebuilt/common/bootanimation" remote="github" revision="master"/>
         <project name="MyMagma/notes" path=".repo/local_manifests" remote="github" revision="master"/>
-
+        <project name="MyMagma/apps" path="packages/apps" remote="github" revision="master"/>
 </manifest>
